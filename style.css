@@ -1,0 +1,33 @@
+.Desine {
+    text-align: right;
+  }
+
+.Kaire {
+    text-align: left;
+  }
+
+header{
+color: #4FBC4B; 
+background-color: #0D91AD;
+
+}
+
+nav{
+color: #15779E; 
+background-color: #6A00D2;
+}
+
+main{
+color: #4F8439; 
+background-color: #44888A;
+-webkit-text-stroke: 0.1px black;
+}
+
+footer{
+color: #EABADD; 
+background-color: #C61289;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+}
